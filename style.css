@@ -66,11 +66,9 @@ div.table{
   width: 100%;
   background: black;
 }
-td.cv{
-  background:red;
-  
+th.tbl{
+  background: red;
 }
-th.cv{
-  background:red;
-  
+td.tbl{
+  background: red;
 }
