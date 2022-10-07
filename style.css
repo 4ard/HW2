@@ -68,7 +68,9 @@ div.table{
 }
 th.tb{
   background: blue;
+  color: red;
 }
 td.tb{
   background: blue;
+  color: red;
 }
